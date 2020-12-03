@@ -34,7 +34,7 @@
      inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="21.223979"
-     inkscape:cx="-3.4948662"
+     inkscape:cx="3.9240171"
      inkscape:zoom="6.1760764"
      showgrid="false"
      id="namedview917"
@@ -48,16 +48,16 @@
      borderopacity="1"
      bordercolor="#666666"
      pagecolor="#ffffff" />
-  <text
-     transform="scale(1.0004017,0.99959846)"
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.1595px;line-height:0.65;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';letter-spacing:-2.9834px;word-spacing:0px;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.01;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     x="1.9486388"
-     y="29.844555"
-     id="text891"><tspan
-       sodipodi:role="line"
-       id="tspan889"
-       x="1.9486388"
-       y="29.844555"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.1595px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:none;stroke:#000000;stroke-width:1.01;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">AT</tspan></text>
+  <path
+     id="path2689"
+     d="m 13.876277,21.772832 q -1.95022,-6.270158 -2.202289,-7.09204 -0.238803,-0.821881 -0.344938,-1.299102 -0.437804,1.696787 -2.5074251,8.391142 z"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.1595px;line-height:0.65;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';letter-spacing:-2.9834px;word-spacing:0px;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.01;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     id="path2680"
+     d="M 16.264301,29.832571 14.85802,25.219431 H 7.7868144 l -1.4062811,4.61314 H 1.9494216 L 8.7950913,10.372543 H 13.82321 l 6.872203,19.460028 z"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.1595px;line-height:0.65;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';letter-spacing:-2.9834px;word-spacing:0px;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.01;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     id="path2682"
+     d="M 27.621115,29.832571 H 23.508407 V 13.872167 H 18.241486 V 10.45208 h 14.64655 v 3.420087 h -5.266921 z"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.1595px;line-height:0.65;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';letter-spacing:-2.9834px;word-spacing:0px;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.01;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
 </svg>
