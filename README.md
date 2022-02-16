@@ -1,4 +1,4 @@
-# Austin Theriot | Front End Developer
+# Austin Theriot | Software Engineer
 <code>
   <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
   <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
@@ -16,8 +16,6 @@
 </code>
 <br />
 <br />
-
-[![Austin Theriot's Portfolio](images/icon_portfolio.svg)](https://austintheriot.com/)
 [![Contact Me](images/icon_email.svg)](https://austintheriot.com/contact)
 [![LinkedIn](images/icon_linkedin.svg)](https://www.linkedin.com/in/austinmtheriot/)
 [![GitHub](images/icon_github.svg)](https://github.com/austintheriot/)
