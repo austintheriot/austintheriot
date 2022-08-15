@@ -17,6 +17,4 @@
 <br />
 <br />
 
-[![Contact Me](images/icon_email.svg)](https://austintheriot.com/contact)
-[![LinkedIn](images/icon_linkedin.svg)](https://www.linkedin.com/in/austinmtheriot/)
-[![GitHub](images/icon_github.svg)](https://github.com/austintheriot/)
+# [![LinkedIn](images/icon_linkedin.svg)](https://www.linkedin.com/in/austinmtheriot/)
