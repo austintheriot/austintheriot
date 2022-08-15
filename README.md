@@ -16,5 +16,3 @@
 </code>
 <br />
 <br />
-
-# [![LinkedIn](images/icon_linkedin.svg)](https://www.linkedin.com/in/austinmtheriot/)
