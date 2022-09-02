@@ -1,8 +1,4 @@
-# Austin Theriot
-
 Hi! Welcome to my GitHub. 
-
-## About Me
 
 I'm a frontend developer by day, working mostly with TypeScript, JavaScript, React, Next, Node, etc.
 
