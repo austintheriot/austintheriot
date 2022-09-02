@@ -14,4 +14,4 @@ I like to dabble in various computer science fields when time permits. Some of t
 
 Finally, I'm a husband and a father--undoubtdely the two most important and meaningul jobs I'll ever have. Those things are not typically what people come to a GitHub readme to read about, though, so thanks sticking with it this far. 
 
-I always love to connect with other developers and people who share the same interests as me, so feel free to reach out. I will leave finding my email as an exercise for the reader.
+I always love to connect with other developers and people who share the same interests as me, so feel free to reach out.
