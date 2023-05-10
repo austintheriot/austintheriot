@@ -2,7 +2,7 @@
 
 👋 Hi! Welcome to my GitHub.
 
-🦀 I work as a frontend developer, doing mostly TypeScript, JavaScript, React, Next, etc., but I've increasingly started to rely on Rust for pretty much all of my own personal software development: not because it's the easiest language to learn (or write), but because it has empowered me to create things I never would have dreamed of working on when I previously only worked with JavaScript.
+🦀 I work as a fullstack developer, doing mostly TypeScript, JavaScript, React, Next, etc., but I've increasingly started to rely on Rust for pretty much all of my own personal software development: not because it's the easiest language to learn (or write), but because it has empowered me to create things I never would have dreamed of working on when I previously only worked with JavaScript.
 
 🎵 I used to be a classical composer by trade. I was getting my Masters degree in Music Composition at the University of Texas when I stumbled upon programming and fell in love with it. I became so obsessed with programming that I spent the last few months of my final semester avoiding my music studies to spend every possible minute coding. This is ultimately what convinced me to leave my masters degree and become a programmer. I am still a classical composer--I occasionally write pieces that are published--but it is no longer my profession. I do, however, think that that same drive for creativity and technical excellence has informed what I love most in software engineering.
 
